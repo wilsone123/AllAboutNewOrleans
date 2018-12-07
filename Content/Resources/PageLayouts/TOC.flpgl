@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="">
     <Page Name="First Right" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="firstright" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BackgroundType="Solid" BackgroundColor="transparent">
-        <Frame Flow="footer" Height="47px" Anchors="Left,Right,Bottom" Right="0px" Bottom="0px" X="85px" Y="817px" Width="539px" TextAlign="right" VerticalAlign="top">
+        <Frame Flow="footer" Height="47px" Anchors="Left,Right,Bottom" Right="42px" Bottom="-42px" X="43px" Y="859px" Width="539px" TextAlign="right" VerticalAlign="top">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:head>
@@ -11,7 +11,7 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame Flow="body" Y="217px" Bottom="72px" X="85px" Right="0px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Bottom" Width="539px" Height="575px" FlowIndex="3">
+        <Frame Flow="body" Y="-19px" Bottom="41px" X="5px" Right="7px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Bottom" Width="612px" Height="842px" FlowIndex="3">
         </Frame>
     </Page>
     <Page Name="Left" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="left" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BackgroundType="Solid" BackgroundColor="transparent">
@@ -57,7 +57,7 @@
                             <xhtml:col />
                             <xhtml:tbody>
                                 <xhtml:tr>
-                                    <xhtml:td> <![CDATA[ ]]></xhtml:td>
+                                    <xhtml:td>  </xhtml:td>
                                     <xhtml:td>
                                         <xhtml:p xhtml:style="text-align: right;"><MadCap:variable xhtml:name="System.PageNumber" />
                                         </xhtml:p>
