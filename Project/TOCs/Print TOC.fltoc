@@ -35,9 +35,6 @@
     PageType="firstright" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
     Link="/Content/Music.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"

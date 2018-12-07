@@ -2,18 +2,19 @@
 <CatapultToc
   Version="1">
   <TocEntry
+    Title="Home"
+    Link="/Content/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    StartSection="false" />
+  <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/AllAboutNewOrleans.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoAttractions.htm"></TocEntry>
+    Link="/Content/Music.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoCuisine.htm">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Music.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]" />
-  </TocEntry>
+    Title="Food"
+    Link="/Content/NOLACuisine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Events"
+    Link="/Content/NOLAEvents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
